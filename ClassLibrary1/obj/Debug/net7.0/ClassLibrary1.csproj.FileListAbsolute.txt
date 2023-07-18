@@ -1,0 +1,12 @@
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.deps.json
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.dll
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.pdb
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.csproj.AssemblyReference.cache
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.AssemblyInfo.cs
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.dll
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/refint/ClassLibrary1.dll
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.pdb
+/Users/richard/Projects/dotnet/WolverineTestFluentValidation/ClassLibrary1/obj/Debug/net7.0/ref/ClassLibrary1.dll
